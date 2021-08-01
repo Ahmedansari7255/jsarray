@@ -57,8 +57,8 @@ console.log(fruits);
 
 //8.iteration of an array(assignment)
 
-var animals =['lion','tiger','leopard','jaguar','panther','puma','deer','elephant','fox','hyena']
-for(var i=0,i=animals.length-1 ,i++){
+var animals=['lion','tiger','leopard','jaguar','panther','puma','deer','elephant','fox','hyena']
+for(var i=0,i<=animals.length-1 ,i++) {
 console.log(animals[i]);
  }
 
